@@ -13,6 +13,7 @@ function createStatusBox() {
     statusWin.style.bottom = '0';
     statusWin.style.left = leftBoxGap;
     statusWin.style.background = boxBackgroundColor;
+    statusWin.style.zIndex = '9999';
     document.body.appendChild(statusWin);
 }
 
