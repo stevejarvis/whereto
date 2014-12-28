@@ -47,6 +47,8 @@
 			<string>All</string>
 		</dict>
 	</dict>
+	<key>Update Manifest URL</key>
+	<string>https://raw.githubusercontent.com/stevejarvis/whereto/master/Info.plist</string>
 	<key>Website</key>
 	<string>http://nerdster.org/where-to/</string>
 </dict>
